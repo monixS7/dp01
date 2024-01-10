@@ -8,3 +8,4 @@ chef
 aws
 azure
 gcp
+microsoft
