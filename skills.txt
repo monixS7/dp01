@@ -6,3 +6,4 @@ kubernetes
 devsecops
 chef
 aws
+azure
