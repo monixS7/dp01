@@ -5,3 +5,5 @@ ansible
 kubernetes
 devsecops
 chef
+AWS
+AZURE
