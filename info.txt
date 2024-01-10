@@ -3,3 +3,4 @@ git is fast and light weight
 git is comprehensive
 git is fast
 git is flexible
+git is widely used
