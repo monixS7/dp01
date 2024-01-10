@@ -9,3 +9,4 @@ aws
 azure
 gcp
 microsoft
+oracle
