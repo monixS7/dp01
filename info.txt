@@ -4,3 +4,4 @@ git is comprehensive
 git is fast
 git is flexible
 git is widely used
+git has many features
