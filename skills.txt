@@ -3,3 +3,5 @@ maven
 docker
 ansible
 kubernetes
+devsecops
+chef
